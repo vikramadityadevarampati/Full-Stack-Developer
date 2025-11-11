@@ -1,0 +1,5 @@
+{
+  "name": "Keep Notes App",
+  "description": "A simple and elegant note-taking application designed to help you capture your thoughts and ideas seamlessly. Users can sign up, log in, and manage their notes through a clean and intuitive interface.",
+  "requestFramePermissions": []
+}
